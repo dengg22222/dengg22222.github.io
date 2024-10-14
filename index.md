@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Introduce My profile"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -10,7 +10,8 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - Name: "Kim JoungGeun"
+  - Department: "AI"
 ---
 
 {% include feature_row id="intro" type="center" %}
